@@ -1,0 +1,21 @@
+if (interactive()) {
+  suppressMessages(require(devtools))
+}
+
+if (interactive()) {
+  suppressMessages(require(usethis))
+}
+
+if (interactive()) {
+  suppressMessages(require(sloop))
+}
+
+options(
+  usethis.full_name = "Chin Hung Tseng",
+  usethis.description = list(
+    `Authors@R` = 'person("Chin Hung", "Tseng", email = "bluesshown@gmail.com", role = c("aut", "cre"))',
+    License = "MIT + file LICENSE",
+    Version = "0.0.0.9000"
+  ),
+  usethis.protocol  = "ssh"
+)
