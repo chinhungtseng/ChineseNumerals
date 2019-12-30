@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 The goal of ChineseNumerals is to convert Arabic numerals to Chinese
-numerals
+numerals.
 
 ## Installation
 
@@ -21,7 +21,7 @@ devtools::install_github("chinhungtseng/ChineseNumerals")
 
 ## Example
 
-This is a basic example which shows you how to user this package:
+This is a basic example which shows you how to use this package:
 
 ``` r
 library(ChineseNumerals)
