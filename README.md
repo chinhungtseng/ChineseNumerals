@@ -12,11 +12,11 @@ numerals
 
 ## Installation
 
-You can install the released version of ChineseNumerals from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the released version of ChineseNumerals from **github**
+with:
 
 ``` r
-install.packages("ChineseNumerals")
+devtools::install_github("chinhungtseng/ChineseNumerals")
 ```
 
 ## Example
