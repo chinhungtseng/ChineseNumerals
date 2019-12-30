@@ -1,0 +1,15 @@
+Package: ChineseNumerals
+Type: Package
+Title: Convert Arabic numerals to Chinese numerals
+Version: 0.1.0
+Author: 'person("Chin Hung", "Tseng", email = "bluesshown@gmail.com", role = c("aut", "cre"))'
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+depend: 
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)
